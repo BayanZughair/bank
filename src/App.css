@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+button{
+width:fit-content;
+}
+.negative{
+  color: red !important;
+}
+.positive{
+  color: green  !important;
+}
+.custom-nav {
+  background-color: #f8f9fa;
+  padding: 10px 0;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.custom-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 15px;
+}

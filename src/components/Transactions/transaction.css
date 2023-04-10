@@ -1,0 +1,28 @@
+.positive {
+  background-color: #e6feff !important;
+  color: #299b9f;
+  width: fit-content;
+}
+
+.negative{
+  background-color: #f3a6a4 !important;
+  color: #c64c48;
+  width: fit-content;
+
+}
+.transactions-container {
+  display: flex;
+  justify-content: center;
+}
+
+
+.bg-danger {
+  width: 80px;
+  height: 40px;
+  font-size: 16px;
+  margin-top: 20px;
+  border-radius: 5px;
+  background-color: red;
+  color: #fff;
+}
+
